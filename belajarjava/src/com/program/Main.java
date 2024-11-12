@@ -44,5 +44,5 @@ public class Main {
 //         System.out.println(barang1.getstokbarang());
 //         barang1.cetakInfobarang();
 
-}
+        }
 }
